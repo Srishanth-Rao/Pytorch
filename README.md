@@ -1,1 +1,1 @@
-PyTroch basic to advanced prep. notes comprehensively written.. 
+PyTorch basic to advanced prep. notes comprehensively written.. 
